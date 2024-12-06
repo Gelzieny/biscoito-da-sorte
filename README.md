@@ -8,10 +8,10 @@
 
 O layout do projeto está disponível no [Figma](https://www.figma.com/design/S68Zd9DzYj3yGZHNHhiOIQ/Biscoito-da-Sorte-(Community)?node-id=0-1&node-type=canvas&t=4avy1FtUuUPvqNLC-0)
 
-
-<img alt="" src=".github/fechado.png" width="500">
-<img alt="" src=".github/aberto.png" width="500">
-
+<p align="center">
+  <img alt="" src=".github/fechado.png" width="400">
+  <img alt="" src=".github/aberto.png" width="400">
+</p>
 
 ## 🚀 Tecnologias
 
